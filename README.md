@@ -89,4 +89,4 @@ You can see sample app for the module usage here:
 
 ## License
 
-This project is licensed under the GNU GPLv2 - see the [LICENSE.md](/LICENSE.md) file for details.
+This project is licensed under the GNU GPLv3 - see the [LICENSE.md](/LICENSE.md) file for details.
