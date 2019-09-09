@@ -1,4 +1,4 @@
-# IAP Module for Android
+﻿# IAP Module for Android
 
 The IAP module provides a ready-made UI allowing your users to purchase Kin within your app. The module basically routes your users to an activity in the Kin Hub app, in a way that seems completely native. 
 
@@ -69,7 +69,7 @@ You can use any clickable object of your own for starting the module flow.
 
 Upon starting the module flow, if the user does not have the [Kin Hub] app installed, they will be prompted with the following popup:
 
-![PreScreenshot](/app/src/main/res/drawable/Pre_Screenshot.png?raw=true)
+![PreScreenshot](/app/src/main/res/drawable/screenshot_pre.png?raw=true)
 
 The user is not required to do anything but have the app installed on their phone. This is necessary, so developers don't have to be responsible for kyc, compliance, and/or any additional legal requirements.
 
@@ -77,7 +77,7 @@ The user is not required to do anything but have the app installed on their phon
 
 If the user has the Kin Hub app installed, they will be prompted with the following screen:
 
-![Post Screenshot](/app/src/main/res/drawable/Post_Screenshot.png?raw=true)
+![Post Screenshot](/app/src/main/res/drawable/screenshot_post.png?raw=true)
 
 Upon successful purchase, Kin will be deposited to the public address which the IapManager was initialized with.
 
