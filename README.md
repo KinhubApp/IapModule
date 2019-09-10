@@ -90,3 +90,7 @@ You can see sample app for the module usage here:
 ## License
 
 This project is licensed under the GNU GPLv3 - see the [LICENSE.md](/LICENSE.md) file for details.
+
+## Contact
+
+If you have any questions or feedback, please send me an email at kinhubapp@gmail.com
