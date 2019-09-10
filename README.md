@@ -67,9 +67,9 @@ You can use any clickable object of your own for starting the module flow.
 
 ## User does not have Kin Hub installed
 
-Upon starting the module flow, if the user does not have the [Kin Hub] app installed, they will be prompted with the following popup:
+Upon starting the module flow, if the user does not have the [Kin Hub](https://play.google.com/store/apps/details?id=com.kinhub.kinhub) app installed, they will be prompted with the following popup:
 
-![PreScreenshot](/app/src/main/res/drawable/screenshot_pre.png?raw=true)
+<img src="/app/src/main/res/drawable/screenshot_pre.png?raw=true" width="350">
 
 The user is not required to do anything but have the app installed on their phone. This is necessary, so developers don't have to be responsible for kyc, compliance, and/or any additional legal requirements.
 
@@ -77,7 +77,7 @@ The user is not required to do anything but have the app installed on their phon
 
 If the user has the Kin Hub app installed, they will be prompted with the following screen:
 
-![Post Screenshot](/app/src/main/res/drawable/screenshot_post.png?raw=true)
+<img src="/app/src/main/res/drawable/screenshot_post.png?raw=true" width="350">
 
 Upon successful purchase, Kin will be deposited to the public address which the IapManager was initialized with.
 
